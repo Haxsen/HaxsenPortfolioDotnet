@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HaxsenPortfolioDotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+415f6646b2736d4a44c4b7d893bd3f4fd9c23f45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a4f5effb0e5f815917793a3993f01128a79c950")]
 [assembly: System.Reflection.AssemblyProductAttribute("HaxsenPortfolioDotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HaxsenPortfolioDotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
